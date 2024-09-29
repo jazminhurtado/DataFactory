@@ -1,0 +1,9 @@
+{
+	"name": "jhurtadodatafactory3",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "78df5f38-5909-4877-899d-9909c77c4b97",
+		"tenantId": "9e11f57b-1359-457a-b41b-81b7688cde5c"
+	}
+}
